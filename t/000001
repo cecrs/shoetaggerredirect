@@ -1,0 +1,6 @@
+---
+title: My page
+permalink: t/000001
+redirect_to:
+  - http://google.com
+---
